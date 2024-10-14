@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Dnipro",
+    "X": 55.871667,
+    "Y": 33.724167,
+    "Description": "The largest river in Ukraine and the third largest in Europe (after the Volga River and the Danube River)",
+    "FlowSpeed": 9.700,
+    "Length": 2201.000
+  },
+  {
+    "Name": "Desna",
+    "X": 54.587778,
+    "Y": 33.292222,
+    "Description": "The river in russia and Ukraine, a major left-tributary of the Dnipro",
+    "FlowSpeed": 15.000,
+    "Length": 1130.000
+  },
+  {
+    "Name": "Dnister",
+    "X": 49.211389,
+    "Y": 22.969444,
+    "Description": "The Dniester River flows through Ukraine and Moldova, and is the second longest river in Ukraine.",
+    "FlowSpeed": 115.000,
+    "Length": 1362.000
+  },
+  {
+    "Name": "Rhine",
+    "X": 46.632513,
+    "Y": 8.674810,
+    "Description": "The Rhine River is one of the major rivers of Europe, flowing through Switzerland, Germany, and the Netherlands.",
+    "FlowSpeed": 111.111,
+    "Length": 1233.000
+  },
+  {
+    "Name": "Danube",
+    "X": 48.095556,
+    "Y": 8.155000,
+    "Description": "The Danube River is the second-longest river in Europe, flowing through Central and Eastern Europe.",
+    "FlowSpeed": 500.000,
+    "Length": 2857.000
+  }
+]

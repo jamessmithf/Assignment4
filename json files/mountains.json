@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Hoverla",
+    "X": 48.160000,
+    "Y": 24.500278,
+    "Description": "Hoverla is the highest mountain in Ukraine, located in the Carpathians.",
+    "Peak": 2061.000
+  },
+  {
+    "Name": "Mont Blanc",
+    "X": 45.832611,
+    "Y": 6.865000,
+    "Description": "Mont Blanc is the highest mountain in the Alps and Western Europe, located between France and Italy.",
+    "Peak": 4807.000
+  },
+  {
+    "Name": "Everest",
+    "X": 27.988056,
+    "Y": 86.925278,
+    "Description": "Mount Everest is the highest mountain in the world, located in the Himalayas on the Nepal-China border.",
+    "Peak": 8848.860
+  },
+  {
+    "Name": "Roman-Kosh",
+    "X": 44.756389,
+    "Y": 34.412500,
+    "Description": "Roman-Kosh is the highest peak of the Crimean Mountains, located in Crimea.",
+    "Peak": 1545.000
+  },
+  {
+    "Name": "McKinley",
+    "X": 63.069444,
+    "Y": -151.007222,
+    "Description": "Denali, also known as Mount McKinley, is the highest mountain in North America, located in Alaska, USA.",
+    "Peak": 6190.000
+  }
+]
